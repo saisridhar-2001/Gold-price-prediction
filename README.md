@@ -9,7 +9,7 @@ seaborn.</br>
 sklearn.</br>
 ## Work flow:</br>
 Gold price data frame which consist of gold prices from last Decade,</br>
-Data pre-processing,</br>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+Data pre-processing,</br>
 Data Analysis,</br>
 Train test split,</br>
 Random forest regressor,</br>
